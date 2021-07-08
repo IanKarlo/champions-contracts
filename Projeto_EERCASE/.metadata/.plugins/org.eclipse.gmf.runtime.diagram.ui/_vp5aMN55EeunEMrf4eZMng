@@ -1,4 +1,4 @@
-#Tue Jul 06 22:31:53 BRT 2021
+#Wed Jul 07 08:50:02 BRT 2021
 viewport.x=624
 zoom=1.0
 print.margin.right=0.5
@@ -16,4 +16,4 @@ rulergrid.gridlevel=true
 print.margin.top=0.5
 print.useMillim=true
 print.usePortrait=true
-viewport.y=141
+viewport.y=0
