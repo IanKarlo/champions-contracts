@@ -1,15 +1,15 @@
-#Tue Jul 13 11:44:19 BRT 2021
-viewport.x=410
-zoom=0.75
+#Tue Jul 13 16:13:35 BRT 2021
+viewport.x=73
+zoom=0.5
 print.margin.right=0.5
 rulergrid.rulerunit=1
 rulergrid.snaptogrid=true
 print.page.size=A4
 print.margin.left=0.5
 print.page.width=8.26771654
-pagebreak.y=-707
+pagebreak.y=0
 rulergrid.gridspacing=0.125
-pagebreak.x=-314
+pagebreak.x=0
 print.page.height=11.6929134
 rulergrid.gridlinecolor=12632256
 print.margin.bottom=0.5
@@ -18,4 +18,4 @@ rulergrid.gridlevel=true
 print.margin.top=0.5
 print.useMillim=true
 print.usePortrait=true
-viewport.y=-59
+viewport.y=0
