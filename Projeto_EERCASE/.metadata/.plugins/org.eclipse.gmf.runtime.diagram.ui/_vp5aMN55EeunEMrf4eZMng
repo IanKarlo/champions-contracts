@@ -1,6 +1,6 @@
-#Tue Jul 13 16:13:35 BRT 2021
-viewport.x=73
-zoom=0.5
+#Sat Aug 07 14:26:23 BRT 2021
+viewport.x=27
+zoom=1.0
 print.margin.right=0.5
 rulergrid.rulerunit=1
 rulergrid.snaptogrid=true
@@ -18,4 +18,4 @@ rulergrid.gridlevel=true
 print.margin.top=0.5
 print.useMillim=true
 print.usePortrait=true
-viewport.y=0
+viewport.y=321
