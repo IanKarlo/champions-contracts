@@ -18,11 +18,11 @@ INSERT INTO CONTA VALUES (5,'Rebeca Pereira Barros',31,'aR5seWaf5qu');
 INSERT INTO EMAILS VALUES (5,'RebecaPereiraBarros@gmail.com');
 INSERT INTO JOGADOR VALUES (5,'Deplivars',2);
 
-INSERT INTO CONTA VALUES (6,'Jo„o Alves Santos',27,'IeMa1ahd4yei');
+INSERT INTO CONTA VALUES (6,'Jo√£o Alves Santos',27,'IeMa1ahd4yei');
 INSERT INTO EMAILS VALUES (6,'JoaoAlvesSantos@gmail.com');
 INSERT INTO JOGADOR VALUES (6,'Overtutremew',10);
 
-INSERT INTO CONTA VALUES (7,'¡gatha Barros Melo',34,'oN3sieHao');
+INSERT INTO CONTA VALUES (7,'√Ågatha Barros Melo',34,'oN3sieHao');
 INSERT INTO EMAILS VALUES (7,'AgathaBarrosMelo@gmail.com');
 INSERT INTO JOGADOR VALUES (7,'Deasind1987',3);
 
@@ -58,7 +58,7 @@ INSERT INTO CONTA VALUES (15,'Matheus Goncalves Sousa',28,'eih2Ta8y');
 INSERT INTO EMAILS VALUES (15,'MatheusGoncalvesSousa@gmail.com');
 INSERT INTO JOGADOR VALUES (15,'Eventer',7);
 
-INSERT INTO CONTA VALUES (16,'F·bio Correia Silva',19,'ee0OoGie');
+INSERT INTO CONTA VALUES (16,'F√°bio Correia Silva',19,'ee0OoGie');
 INSERT INTO EMAILS VALUES (16,'FabioCorreiaSilva@gmail.com');
 INSERT INTO JOGADOR VALUES (16,'Excul2002',5);
 
@@ -66,7 +66,7 @@ INSERT INTO CONTA VALUES (17,'Carlos Barbosa Martins',35,'Kie3oojoRoh');
 INSERT INTO EMAILS VALUES (17,'CarlosBarbosaMartins@gmail.com');
 INSERT INTO JOGADOR VALUES (17,'Exach1985',2);
 
-INSERT INTO CONTA VALUES (18,'LuÌs Fernandes Rocha',29,'ti6haix8Bai');
+INSERT INTO CONTA VALUES (18,'Lu√≠s Fernandes Rocha',29,'ti6haix8Bai');
 INSERT INTO EMAILS VALUES (18,'LuisFernandesRocha@gmail.com');
 INSERT INTO JOGADOR VALUES (18,'Slengslas1992',2);
 
@@ -126,7 +126,7 @@ INSERT INTO CONTA VALUES (32,'Diogo Ribeiro Almeida',34,'ua1Bee4j');
 INSERT INTO EMAILS VALUES (32,'DiogoRibeiroAlmeida@gmail.com');
 INSERT INTO JOGADOR VALUES (32,'Tatromer',1);
 
-INSERT INTO CONTA VALUES (33,'¡gatha Correia Souza',19,'ooP4ahNoa');
+INSERT INTO CONTA VALUES (33,'√Ågatha Correia Souza',19,'ooP4ahNoa');
 INSERT INTO EMAILS VALUES (33,'AgathaCorreiaSouza@gmail.com');
 INSERT INTO JOGADOR VALUES (33,'Eyettaking',8);
 
@@ -142,7 +142,7 @@ INSERT INTO CONTA VALUES (36,'Vitoria Melo Pinto',21,'Ooc1vuxeFi');
 INSERT INTO EMAILS VALUES (36,'VitoriaMeloPinto@gmail.com');
 INSERT INTO JOGADOR VALUES (36,'MeloPinto',10);
 
-INSERT INTO CONTA VALUES (37,'Cau„ Cunha Gomes',13,'kuoXe0moo');
+INSERT INTO CONTA VALUES (37,'Cau√£ Cunha Gomes',13,'kuoXe0moo');
 INSERT INTO EMAILS VALUES (37,'CauaCunhaGomes@gmail.com');
 INSERT INTO JOGADOR VALUES (37,'Forded',5);
 
@@ -150,7 +150,7 @@ INSERT INTO CONTA VALUES (38,'Rafaela Rodrigues Cavalcanti',31,'ahda9eiCee');
 INSERT INTO EMAILS VALUES (38,'RafaelaRodriguesCavalcanti@gmail.com');
 INSERT INTO JOGADOR VALUES (38,'Brind1989',1);
 
-INSERT INTO CONTA VALUES (39,'Tom·s Silva Costa',13,'eeM0qua4ac4');
+INSERT INTO CONTA VALUES (39,'Tom√°s Silva Costa',13,'eeM0qua4ac4');
 INSERT INTO EMAILS VALUES (39,'TomasSilvaCosta@gmail.com');
 INSERT INTO JOGADOR VALUES (39,'Anyinct',1);
 

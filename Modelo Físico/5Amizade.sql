@@ -28,7 +28,7 @@ INSERT INTO AMIZADE VALUES (6,'Overtutremew',4,'Thedgme');
 INSERT INTO AMIZADE VALUES (4,'Thedgme',11,'Whavence');
 INSERT INTO AMIZADE VALUES (11,'Whavence',4,'Thedgme');
 INSERT INTO AMIZADE VALUES (4,'Thedgme',10,'Yemand');
-INSERT INTO AMIZADE VALUES (11,'Yemand',4,'Thedgme');
+INSERT INTO AMIZADE VALUES (10,'Yemand',4,'Thedgme');
 INSERT INTO AMIZADE VALUES (4,'Thedgme',9,'Difter');
 INSERT INTO AMIZADE VALUES (9,'Difter',4,'Thedgme');
 
@@ -52,8 +52,8 @@ INSERT INTO AMIZADE VALUES (13,'Coleaked',3,'NIcolashOfSpark');
 INSERT INTO AMIZADE VALUES (3,'NIcolashOfSpark',13,'Coleaked');
 INSERT INTO AMIZADE VALUES (14,'Alled2000',3,'NIcolashOfSpark');
 INSERT INTO AMIZADE VALUES (3,'NIcolashOfSpark',14,'Alled2000');
-INSERT INTO AMIZADE VALUES (2,'Dithey',3,'NIcolashOfSpark');
-INSERT INTO AMIZADE VALUES (3,'NIcolashOfSpark',2,'Dithey');
+INSERT INTO AMIZADE VALUES (19,'Dithey',3,'NIcolashOfSpark');
+INSERT INTO AMIZADE VALUES (3,'NIcolashOfSpark',19,'Dithey');
 INSERT INTO AMIZADE VALUES (20,'Upostionots',3,'NIcolashOfSpark');
 INSERT INTO AMIZADE VALUES (3,'NIcolashOfSpark',20,'Upostionots');
 
