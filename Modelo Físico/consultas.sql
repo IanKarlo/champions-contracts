@@ -129,3 +129,9 @@ HAVING AVG
     KDA(P.KILL,P.ASSIST,P.DEATH)) > (Select AVG (KDA(P2.KILL,P2.ASSIST,P2.DEATH)) FROM PARTICIPA P2)
 order BY AVG(KDA(P.KILL,P.ASSIST,P.DEATH)) DESC
 -----------------------
+
+-- Contar quantos buffs cada item tem
+SELECT   nome, COUNT(descricao) AS 'Qtd de buffs'
+FROM  buffs
+GROUP BY nome ORDER BY nome;
+--------
