@@ -75,14 +75,11 @@ IN (
 SELECT ID, NICKNAME, RANK
 FROM JOGADOR J
 WHERE (J.ID,J.NICKNAME)
-NOT IN
-    (
+NOT IN(
     SELECT P.ID,P.NICK
     FROM POSSUI P
-    WHERE P.NOME =
-        (
-        SELECT NOME FROM
-            (
+    WHERE P.NOME =(
+        SELECT NOME FROM(
             SELECT NOME, COUNT(*)
             FROM POSSUI
             GROUP BY NOME
@@ -131,7 +128,7 @@ order BY AVG(KDA(P.KILL,P.ASSIST,P.DEATH)) DESC
 -----------------------
 
 -- Contar quantos buffs cada item tem
-SELECT   nome, COUNT(descricao) AS 'Qtd de buffs'
-FROM  buffs
-GROUP BY nome ORDER BY nome;
+SELECT NOME, COUNT(DESCRICAO) AS 'QTD'
+FROM  BUFFS
+GROUP BY NOME ORDER BY NOME;
 --------

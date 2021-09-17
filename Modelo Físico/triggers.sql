@@ -10,17 +10,14 @@ BEGIN
         WHERE P1.CODIGO = :NEW.CODIGO)
     LOOP
     cntr_total := cntr_total + 1;
-
     IF reg_pXp.TIME = :NEW.TIME
     THEN cntr_time := cntr_time + 1;
     END IF;
-
     IF cntr_time >= 3
     THEN RAISE_APPLICATION_ERROR(-20205, 'Time já está cheio\n');
     ELSIF cntr_total >= 6
     THEN RAISE_APPLICATION_ERROR(-20205, 'Partida já está lotada\n');
     END IF;
-
     END LOOP;
     FOR reg_p IN (SELECT * FROM POSSUI WHERE :NEW.ID = POSSUI.ID AND :NEW.NICKNAME = POSSUI.NICK)
     LOOP
@@ -29,7 +26,6 @@ BEGIN
         END IF;
     EXIT WHEN is_in = 1;
     END LOOP;
-
     IF is_in = 0
     THEN RAISE_APPLICATION_ERROR(-20205, 'Jogador não possui esse personagem\n');
     END IF;

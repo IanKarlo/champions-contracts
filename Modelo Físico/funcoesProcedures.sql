@@ -1,5 +1,6 @@
 ---------- firstIsFriendSecond-------------
-create or replace PROCEDURE firstIsFriendSecond(id1 IN jogador.id%TYPE, nick1 IN jogador.nickname%TYPE, id2 IN jogador.id%TYPE, nick2 IN jogador.nickname%TYPE)
+create or replace PROCEDURE firstIsFriendSecond(id1 IN jogador.id%TYPE, nick1 IN jogador.nickname%TYPE, 
+id2 IN jogador.id%TYPE, nick2 IN jogador.nickname%TYPE)
 IS
 qtd NUMBER;
 BEGIN
